@@ -4,7 +4,8 @@ This is a mirror of the [AUR packages i maintain or co-maintain](https://aur.arc
 
 # Repository Structure
 
-Each package maintained in this repository has its own branch named aur/<PKGNAME>. For example, the branch for the package hyprpicker-git is aur/hyprpicker-git.
+Each package maintained in this repository has its own branch named aur/<PKGNAME>. For example, the branch for the package hyprpicker-git is aur/hyprpicker-git. All of the original AUR commit history is retained in their respective package branches.
+
 
 The `main` branch only contains this README.md file and nothing else.
 
